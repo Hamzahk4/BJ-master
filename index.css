@@ -1,5 +1,8 @@
 body {
-
+    background-image: url("images/table.png");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:bisque;
+    text-align: center;
 }
 
 h1 {
@@ -17,4 +20,12 @@ h1 {
 }
 #player-el {
     
+}
+
+button{
+    background-color: goldenrod;
+    padding-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 150px;
 }
